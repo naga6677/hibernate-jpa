@@ -1,4 +1,4 @@
-package com.hibernate.jpa.hibernatejpa.entity;
+package com.hibernate.jpa.x.hibernatejpa.entity;
 
 import java.util.Date;
 

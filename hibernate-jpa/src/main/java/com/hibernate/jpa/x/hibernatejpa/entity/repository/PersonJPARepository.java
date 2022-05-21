@@ -1,4 +1,4 @@
-package com.hibernate.jpa.hibernatejpa.entity.repository;
+package com.hibernate.jpa.x.hibernatejpa.entity.repository;
 
 import java.util.List;
 
@@ -9,7 +9,7 @@ import javax.transaction.Transactional;
 
 import org.springframework.stereotype.Repository;
 
-import com.hibernate.jpa.hibernatejpa.entity.Person;
+import com.hibernate.jpa.x.hibernatejpa.entity.Person;
 
 @Repository
 @Transactional

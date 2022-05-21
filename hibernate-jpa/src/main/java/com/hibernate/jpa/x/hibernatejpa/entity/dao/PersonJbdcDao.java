@@ -1,4 +1,4 @@
-package com.hibernate.jpa.hibernatejpa.entity.dao;
+package com.hibernate.jpa.x.hibernatejpa.entity.dao;
 
 import java.sql.ResultSet;
 import java.sql.SQLException;
@@ -11,7 +11,7 @@ import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.jdbc.core.RowMapper;
 import org.springframework.stereotype.Repository;
 
-import com.hibernate.jpa.hibernatejpa.entity.Person;
+import com.hibernate.jpa.x.hibernatejpa.entity.Person;
 
 @Repository
 public class PersonJbdcDao {
